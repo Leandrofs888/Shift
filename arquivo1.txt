@@ -1,3 +1,5 @@
 uma linha antes
 nossa primeira alteração no arquivo
 uma linha depois
+
+uma nova alteração para compara commmits
