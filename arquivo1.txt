@@ -1,6 +1,0 @@
-uma linha antes
-nossa primeira alteração no arquivo
-nova linha para ter versoe no meio
-uma linha depois
-
-uma nova alteração para compara commmits
